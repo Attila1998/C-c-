@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1603381966 source:e:\3.1\prog2+\dinmatrix\dinmatrix\matrixc\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
