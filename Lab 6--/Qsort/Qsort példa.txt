@@ -1,0 +1,28 @@
+tömb:
+10 80 30 90 40 50  70
+
+pivot: 70
+i=-1  j=0
+10<70(i) i++
+i=0 j=1
+80<70(h) j++
+i=0 j=2
+30<70(i) i++
+i=1 j=2 (30-80 csere) j++
+i=1 j=3
+90<70(h) j++
+i=1 j=4
+40<70(i) i++
+i=2 j=4 (80-40 csere) j++
+i=2 j=5
+50<70 (i) i++
+i=3 j=5 (50-90 csere) j++
+i=3 j=6 (80-70 csere)
+// az első része a tömbnek rendezett
+10 30  40 50 70 90 80-az eddigi tömb
+pivot: 50(helyén van) 40 (helyén van) 30(helyén van) 10 (helyén van)
+pivot: 80
+csere: 80-90
+
+10 30  40 50 70 80 90-rendezett tömb
+pivot`s[70,50,40,30,10,80]

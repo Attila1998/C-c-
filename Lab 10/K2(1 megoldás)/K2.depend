@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1574758639 source:d:\prog 2\lab 9\k2\main.c
+	<stdbool.h>
+	<stdio.h>
+
+1574759035 source:d:\prog 2\lab10\k2\main.c
+	<stdbool.h>
+	<stdio.h>
+
