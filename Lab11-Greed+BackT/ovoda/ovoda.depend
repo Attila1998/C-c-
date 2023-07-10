@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1608218874 source:e:\3.1\prog2+\lab11-greed+backt\ovoda\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+

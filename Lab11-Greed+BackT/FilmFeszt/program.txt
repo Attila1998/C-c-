@@ -1,0 +1,27 @@
+13
+A gyûrû szövetsége
+10 13
+A két torony
+13 16
+A király visszatér
+16 19
+Forrest Gump
+3 5
+Az élet szép
+4 7
+A remény rabjai
+6 8
+Poirot – Cipruskoporsó
+11 12
+Amelie csodálatos élete
+12 14
+Solaris
+15 17
+Gattaca
+18 20
+A kísérlet
+19 21
+Good bye, Lenin!
+20 22
+Scherlock Holmes – A sátán kutyája
+21 23

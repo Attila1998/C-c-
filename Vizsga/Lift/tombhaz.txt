@@ -1,0 +1,6 @@
+5
+Lajos 1 21 5
+Mari 2 50 2
+Margit 2 60 4
+Arpi 1 20 5
+Emma 2 18 2
