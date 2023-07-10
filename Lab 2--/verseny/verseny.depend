@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1569922864 source:d:\prog 2\lab 2\verseny\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
